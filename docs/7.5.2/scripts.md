@@ -4,9 +4,9 @@ title: Scripts
 description: >
   There are two ways of adding third party scripts.
   'Embedding' is ideal for one-off scripts, while 'global scripts' loaded on every page.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

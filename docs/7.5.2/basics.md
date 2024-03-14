@@ -4,9 +4,9 @@ title: Basics
 description: >
   Where it is explained how to add basic content types to your Hydejack blog: Blog posts, categories and tags,
   as well as 'special' layouts included in Hydejack PRO.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

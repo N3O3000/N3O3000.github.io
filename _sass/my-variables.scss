@@ -2,7 +2,7 @@
 
 // $gray: #888;
 // $gray-bg: rgba(0,0,0,.025);
-// $gray-text: #666;
+// $gray-text: #AAA333;
 //
 // $root-font-size: 16px;
 // $root-font-size-medium: 17px;
@@ -13,8 +13,8 @@
 // $font-weight-bold: 700;
 // $font-weight-heading: 700;
 //
-// $body-color: #333;
-// $body-bg: #fff;
+ $body-color: #fff;
+ $body-bg: #333;
 //
 // $border-color: #eee;
 //
@@ -29,3 +29,18 @@
 // $break-point-5: 90em;
 // $break-point-dynamic: 104.25em;
 // $break-point-font-large: 125em;
+
+.bouton-personnalise {
+    background-color: #FFBD59; /* Couleur de fond */
+    color: #000; /* Couleur du texte */
+    padding: 10px 25px; /* Espacement intérieur */
+    text-align: center; /* Alignement du texte */
+    text-decoration: none;
+    display: inline-block; /* Type d'affichage */
+    font-size: 16px; /* Taille de la police */
+    cursor: pointer; /* Curseur en forme de pointeur */
+    border-radius: 12px; /* Bords arrondis */
+}
+.bouton-personnalise:hover {
+    background-color: hsla(36, 100%, 50%, 0.808); /* Changement de couleur au survol */
+}

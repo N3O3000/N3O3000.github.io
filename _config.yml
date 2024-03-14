@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://unimakers.fr
+url:                   ''
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  fr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Unimakers
+title:                 Fache Quentin
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,10 +31,10 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Association de Robotique, Modélisme dans l'enceinte d'Unilasalle Amiens 
+  Bonjour je m'appelle Quentin Bienvenue sur mon site Web  
 
 # A list of keywords for your blog
-keywords:              [Unimakers Amiens, robotique, DIY, modelisme, Unilasalle Amiens, CDR, Coupe de france de robotique]
+keywords:              [Robotics, Programmation, DIY, modelisme, CDR, Coupe de france de robotique, exolegend,Impression 3D, découpe laser, prototypage rapide, CAO (Conception Assistée par Ordinateur), fabrication numérique, Arduino, Raspberry Pi, IoT (Internet des Objets), capteurs, actuateurs, microcontrôleurs, programmation C++, Python, Java, ateliers collaboratifs, espace de création, innovation ouverte, DIY (Do It Yourself), Makerspace, solder, code source, intégration de systèmes, robotique éducative, drones, automatisation, intelligence artificielle, machine learning, développement de logiciels, firmware, hardware, circuits imprimés (PCB), modélisation 3D, réalité virtuelle, réalité augmentée, électronique, mécatronique, STEM (Science, Technologie, Ingénierie et Mathématiques), hackathons, workshops, tutoriels, open-source, protocoles de communication, Bluetooth, Wi-Fi, NFC (Near Field Communication), développement web, applications mobiles, UX/UI design, data science, analyse de données, blockchain, sécurité informatique, cloud computing, serveurs, systèmes embarqués, gestion de projet, fabrication additive, découpe CNC (Commande Numérique par Ordinateur), biohacking, écologie numérique, recyclage électronique, impression 4D, textiles intelligents, robotique sociale, robots autonomes, véhicules autonomes, commande vocale, interaction homme-machine, intelligence embarquée. ]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -48,7 +48,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Unimakers Amiens 2023. All rights reserved.
+copyright:             © Fache Quentin 2024. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -75,7 +75,7 @@ kramdown:
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          '#E04750'
+accent_color:          '#0F0154'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>

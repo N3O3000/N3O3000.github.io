@@ -3,9 +3,9 @@ layout: page
 title: Migration
 description: >
   This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

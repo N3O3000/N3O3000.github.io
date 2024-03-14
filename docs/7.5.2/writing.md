@@ -5,9 +5,9 @@ description: >
   Hydejack offers a few additional features to markup your markdown.
   Don't worry, these are merely CSS classes added via the standard `{:.my-class}` syntax,
   so that your posts remain compatible with other Jekyll themes.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

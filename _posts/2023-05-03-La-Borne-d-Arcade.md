@@ -4,18 +4,18 @@ title: La borne d'arcade
 description: >
   Réalisation d'une borne d'arcade sous l'OS Recalbox et fabriquer avec tout les outils du Makerspace dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
 tags: [Amiens]
-author: author2
-accent_color: '#E04750'
+author: author1
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#FFBD59'
   overlay:    false
 accent_image: /assets/img/project/Borne_d_arcade/salle-arcade-mikado.jpg
 
 ---
 
-## Réalisation d'une borne d'arcade
-
 ![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
+
+## Réalisation d'une borne d'arcade
 
 > **Petite Histoire:**
 Les bornes d'arcade ont fait leur apparition dans les années 1930 avec l'introduction de jeux électromécaniques tels que les flippers. Ces machines, souvent de la taille d'un meuble et coûteuses, se sont rapidement popularisées. Peu de particuliers pouvaient se les permettre, ce qui a donné naissance à des salles publiques où des dizaines de ces machines étaient disponibles. Les premières bornes d'arcade intégrant des jeux vidéo ont vu le jour dans les années 1960 aux États-Unis, avant de gagner en popularité en Europe dans les années 1970 et 1980.
@@ -62,8 +62,9 @@ Les étapes que j'ai réalisé pour construire la borne d'arcade sont les suivan
 ## Téléchargement des ressources 
 > Vous pouvez également la réaliser sans avoir à faire quoi que ce soit, en utilisant tous les dossiers qui sont disponibles ici : 
 
-- [La Parties FAO](https://drive.google.com/drive/folders/1l8KBKS_DKK8M51PJvBYQ1OmmrbqSskoz?usp=drive_link) *sous freecad je precise*
+- [La Parties FAO](https://drive.google.com/drive/folders/1l8KBKS_DKK8M51PJvBYQ1OmmrbqSskoz?usp=drive_link) *(sous freecad je precise)*
 - [La Parties Scraping](https://drive.google.com/drive/folders/1VqpI_UWtA0QQUX6-7rAunpzHCxvgmyDm?usp=drive_link)
 - [La Parties OS recalbox](https://drive.google.com/drive/folders/1BNq80I9mQ7tGICTAPnmZjTvw8rT7d2Sf?usp=drive_link)
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe src="//www.ultimedia.com/deliver/generic/iframe/mdtk/01338879/src/q8s8mv5/zone/18/showtitle/1/?autoplay=0" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" hspace="0" vspace="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" width="640" height="360" allow="fullscreen"></iframe>
+

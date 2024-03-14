@@ -1,61 +1,25 @@
 ---
 layout: about
 title: À propos
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
-accent_image:          /assets/img/remi-houda.jpg
+accent_image:          /assets/img/arcade-c.jpg
 menu: true
 order: 4
 ---
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6v+0GtRjJvBjq/UYJfqAovHzcNOP4MDkG2g2F3F7At9qkYCSiwK9SUsdL3o9X6R" crossorigin="anonymous">
 
-# L'équipe 2023-2024
 
-<div class="container">
-  <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan Looij">
-    <p>Dylan Looij</p>
-    <p>Directeur Technique</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Quentin_Fache.png" alt="Quentin Fache">
-    <p>Quentin Fache</p>
-    <p>Chargé des Sponsors et des finances</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/PA.jpg" alt="PA">
-    <p>Pierre-Alex Bianchi</p>
-    <p>Chargé de la Communication</p>
-  </div>
-</div> 
+<a href="/assets/img/About/Fache_Quentin.pdf" download="CV_Fache_Quentin.pdf">
+    <button type="button" class="bouton-personnalise"><i class="fa-solid fa-download"></i>Télécharger le CV</button>
+</a>
 
-# L'équipe 2022-2023
 
-<div class="container">
-  <div class="image-container">
-    <img src="/assets/img/membre/Remi_Lacombe.png" alt="Rémi Lacombe">
-    <p>Rémi Lacombe</p>
-    <p>Directeur Pôle Robotique</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Bixente_Lecadieu.png" alt="Bixente Lecadieu">
-    <p>Bixente Lecadieu</p>
-    <p>Directeur pôle Makerspace</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Teva_Houziaux.png" alt="Teva Houziaux">
-    <p>Teva Houziaux</p>
-    <p>Directeur pôle Modélisme</p>
-  </div>
-</div> 
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
+![CV](/assets/img/About/Fache_Quentin.png)
 
 [blog]: https://qwtel.com/hydejack/blog/
 [portfolio]: https://qwtel.com/hydejack/variations/

@@ -4,8 +4,8 @@ title: Documentation
 menu: true
 order: 6
 description: >
-  Ici vous retrouverez toutes la documentation de nos projet
-accent_color: '#E04750'
+  Ici vous retrouverez toutes la documentation de mes projets
+accent_color: '#FFBD59'
 accent_image:       /assets/img/arcade-c.jpg
 ---
 
@@ -19,8 +19,9 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 -->
 ## La borne d'arcade
 
-
 * [Installation]{:.heading.flip-title} --- Comment installer l'OS Recalbox.
+
+<!-- 
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 
@@ -38,7 +39,7 @@ or [upgrades for pro buyers](upgrade.md#pro-version).
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-
+-->
 
 [installation]: installation.md
 [upgrade]: upgrade.md

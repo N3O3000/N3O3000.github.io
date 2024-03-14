@@ -3,9 +3,9 @@ layout: page
 title: Install
 description: >
   Recalbox est un système d'exploitation (OS) destiné à l'émulation de jeux vidéo rétro. Toutefois, il est important de noter que l'installation de Recalbox sur votre propre PC peut avoir des conséquences graves, potentiellement irréversibles si vous l'installer de la mauvaise façon.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

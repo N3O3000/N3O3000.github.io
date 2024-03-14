@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Fache Quentin"
+  label: "Alternant Ingenieur"
   picture: "https://placehold.it/126x126"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "fachequentin@gmail.com"
+  phone: "06 15 13 45 50"
+  website: "https://N3O3000.github.io"
   summary: >
     **THIS IS AN EXAMPLE RESUME**.
     Richard hails from Tulsa.
@@ -20,32 +20,44 @@ basics:
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: ""
+    postalCode: "80000"
+    city: "Amiens"
+    countryCode: "FR"
+    region: "Somme"
   profiles:
     - network: "Twitter"
       username: "RHendricksCEO"
       url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Fache Quentin"
+      url: "https://www.linkedin.com/in/fache-quentin/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Unimakers"
+    position: "Co-Directeur"
+    website: "https://unimakers.fr"
+    startDate: "2023-09-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      Unimakers Amiens est une association technique 
     highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
+      - "Déploiement sur du run de niveau 1"
+      - "Gestion de projet"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
+
+  - company: "Bonduelle"
+    position: "Alternant Consultant IT"
+    website: ""
+    startDate: "2022-09-01"
+    endDate: ""
+    summary: >
+      Bonduelle est un producteur international de boite de conserve mais aussi d'autre produit de conservation à long terme dans le domaine du végétal
+    highlights:
+      - "Déploiement sur du run de niveau 1"
+      - "Gestion de projet"
+      - "Informatique industriel (supervision, usine 3.0 et 4.0)"
+
+
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
@@ -90,8 +102,10 @@ skills:
       - "MP4"
       - "GIF"
 languages:
-  - language: "English"
-    fluency: "Native speaker"
+  - language: "Francais"
+    fluency: "Langue Native"
+  - language: "Anglais"
+    fluency: "B1"
 interests:
   - name: "Wildlife"
     keywords:

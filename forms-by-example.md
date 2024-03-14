@@ -4,9 +4,9 @@ title: Forms by Example
 description: >
   Hydejack PRO allows you to build your own forms, using [the same CSS classes as Bootstrap](https://getbootstrap.com/docs/4.0/components/forms/).
   Below you can find examples to help you get started.
-accent_color: '#E04750'
+accent_color: '#0F0154'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 redirect_from:
   - /docs/7.5.0/forms-by-example/

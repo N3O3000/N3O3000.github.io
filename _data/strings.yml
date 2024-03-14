@@ -22,9 +22,9 @@ navigation:            Navigation
 social:                Social
 links:                 Links
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+newer:                 Recent
+older:                 Ancien
+back:                  Retour
 permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
@@ -33,7 +33,7 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Lire l'article <!--post_title-->
 
 cookies_banner:
   text:                >

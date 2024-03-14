@@ -2,6 +2,24 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
+  name:              Fache Quentin
+  email:             fachequentin@gmail.com
+  about:             |
+    Salut moi c'est Quentin, je suis étudiant alternant au sein de UniLaSalle amiens et je suis aussi chargé des Sponsors et des Finances de l'association Unimakers sur les années 2023-2024.
+    Ce que j'adore c'est les projets funs, tranquille et sans prise de tête. J'accumule pas mal de projet je te laisse les découvrir ! Bonne visite ^^
+  
+  picture:           /assets/img/About/photo.png
+  social:
+    linkedin:         https://www.linkedin.com/in/fache-quentin/
+    github:           https://github.com/N3O3000
+    website:          https://sites.google.com/view/poisson-reveur/accueil
+    email:            mailto:fachequentin@gmail.com
+  accent_color:      '#FFBD59'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author2:
   name:              Unimakers Amiens
   email:             unimakers.amiens@gmail.com
 
@@ -64,78 +82,4 @@ author1:
 
 # Another author (optional)
 
-author2:
-  name:              Fache Quentin
-  email:             fachequentin@gmail.com
-  about:             |
-    Salut moi c'est Quentin, je suis étudiant alternant au sein de UniLaSalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
-    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
-  
-  picture:           /assets/img/membre/Quentin_Fache.png
-  social:
-    linkedin:         https://www.linkedin.com/in/fache-quentin/
-    github:           https://github.com/N3O3000
-    website:          https://sites.google.com/view/poisson-reveur/accueil
-    email:            mailto:fachequentin@gmail.com
-  accent_color:      '#E04750'
-  accent_image:
-    background:      '#2D2D36'
-    overlay:         false
 
-author3:
-  name:              Pruvost Alexandre
-  #email:             
-  about:             |
-
-  picture:           /assets/img/membre/Alexandre.png
-  #linkedin:         
-  #github:           
-  accent_color:      '#E04750'
-  accent_image:     
-    background:      '#2D2D36'
-    overlay:         false
-
-author4:
-  name:              Looij Dylan
-  email:             
-  about:             |
-    Directeur Technique d'Unimakers Amiens  
-  picture:           /assets/img/membre/Dylan_Looij.jpg
-  #linkedin:         
-  #github:           
-  accent_color:      '#E04750'
-  accent_image:
-    background:      '#2D2D36'
-    overlay:         false
-
-author5:
-  name:              Lacombe Rémi
-  email:             remi.lacombe76@gmail.com
-  about:             |
-     Animé depuis l’enfance par le besoin de créer de mes mains, c’est d’abord dans le travail du bois que j’ai découvert la liberté d’inventer. 
-     C’est lors de l’achat d’une imprimante 3D qu’un nouveau monde de possibilités créatives s’est ouvert à moi. J’ai par la suite su trouver via le courant des Makers, le moyen d’apprendre en faisant, tout en apprenant à faire. 
-     C’est alors vers la robotique que je me suis tourné, comme une opportunité de mettre à profit ma curiosité dans de nombreux domaines : électronique, programmation, mécanique, fabrication numérique…
-  picture:           /assets/img/membre/Remi_Lacombe.png
-  social:
-    website:          https://lacombe-r.github.io/about/
-    linkedin:         https://www.linkedin.com/in/r%c3%a9mi-lacombe-6640a6207/
-  #github:           
-  accent_color:      '#E04750'
-  accent_image:
-    background:      '#2D2D36'
-    overlay:         false
-
-author6:
-  name:              Bianchi Pierre-Alex
-  email:             pierre.bianchi81@gmail.com
-  about:             |
-     Etudiant en 3ème année à Unilasalle Amiens, j'ai toujours été animé par la curiosité et l'envie d'apprendre. Je me suis ainsi naturellement penché vers la formation d'ingénieur.
-     C'est en rentrant en première année que je découvre le monde des Maker et des FabLab. Je me suis alors pris de passion pour la robotique, et la programmation en général.
-  picture:           /assets/img/membre/PA.jpg
-  social:
-    linkedin:         www.linkedin.com/in/pierre-alex-bianchi-0aa620259
-  #github:           
-  accent_color:      '#E04750'
-  accent_image:
-    background:      '#2D2D36'
-    overlay:         false

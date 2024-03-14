@@ -3,9 +3,9 @@ layout: page
 title: Config
 description: >
   Once Jekyll is running, you can start with basic configuration by adding various entries to `_config.yml`.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 

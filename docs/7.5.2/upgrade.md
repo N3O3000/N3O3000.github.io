@@ -3,9 +3,9 @@ layout: page
 title: Upgrade
 description: >
   This documents how to upgrade Hydejack to a newer version. The method depends on how you've installed Hydejack.
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
 ---
 
