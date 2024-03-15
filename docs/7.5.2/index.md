@@ -6,7 +6,7 @@ order: 6
 description: >
   Ici vous retrouverez toutes la documentation de mes projets
 accent_color: '#FFBD59'
-accent_image:       /assets/img/arcade-c.jpg
+accent_image:       /assets/img/About/doc.webp
 ---
 
 **NOTE**: D'autre documentation arrive prochainement

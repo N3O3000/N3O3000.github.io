@@ -10,5 +10,7 @@ accent_color: '#FFBD59'
 accent_image:         
   background: '#2D2D36'
   overlay:    false  
-accent_image:         /assets/img/robot-cdr-2023.jpg
+accent_image:         /assets/img/About/dessin.jpg
 ---
+
+![bande](/assets/img/About/dessin.jpg)

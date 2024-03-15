@@ -7,7 +7,7 @@ order: 5
 description: >
   Voici quelques entreprises et école dont j'ai/je fait partie
 accent_color: '#FFBD59'
-accent_image:         /assets/img/electo.jpg
+accent_image:         /assets/img/About/presentation.webp
 
 ---
 

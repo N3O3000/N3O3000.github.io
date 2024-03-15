@@ -5,8 +5,8 @@ accent_color: '#FFBD59'
 accent_image:
   background: '#0F0154'
   overlay:    false
-accent_image:          /assets/img/arcade-c.jpg
-menu: true
+accent_image:          /assets/img/About/presentation.webp
+menu: true              
 order: 4
 ---
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
