@@ -11,15 +11,11 @@ accent_image:       /assets/img/About/doc.webp
 
 **NOTE**: D'autre documentation arrive prochainement
 
-## Les robots de la coupe de france de robotique 2024
-* [Documentation l'équipe Unimakers I3 2023-24](https://unimakers.fr/Docs-Unimakers-CDR-2024/)
-* [Documentation l'équipe Unimakers I2 (RATP)](https://unimakers.fr/ITEC-2024-I2/)
-<!-- Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
-or [upgrades for pro buyers](upgrade.md#pro-version).
--->
 ## La borne d'arcade
 
 * [Installation]{:.heading.flip-title} --- Comment installer l'OS Recalbox.
+
+## Main Robotisé 
 
 <!-- 
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
