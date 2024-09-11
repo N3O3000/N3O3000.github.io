@@ -1,4 +1,11 @@
-# Apache License
+---
+layout: page
+title: Apache License
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
+---
 
 Version 2.0, January 2004
 

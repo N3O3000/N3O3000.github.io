@@ -1,4 +1,11 @@
-# GNU GENERAL PUBLIC LICENSE
+---
+layout: page
+title: GNU GENERAL PUBLIC LICENSE
+accent_color: '#E04750'
+accent_image:
+  background: '#2D2D36'
+  overlay:    false
+---
 
 Version 3, 29 June 2007
 

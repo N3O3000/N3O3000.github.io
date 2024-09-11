@@ -2,46 +2,42 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Unimakers Amiens
+  email:             unimakers.amiens@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Unimakers Amiens est une association d'étudiant à but non lucratif. Nous travaillons dans l'esprit d'un FabLab tout en évoluant avec les technologies, ainsi qu'avec les étudiants qui participent à differents types d'événement, telque la Coupe de France de Robotique, ou bien lorsqu'ils réalisent leurs projets personnels.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
+    path:            /assets/icons/icon.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      1x:           /assets/icons/icon.png
+      2x:            /assets/icons/icon.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          https://github.com/Unimakers
+    email:           mailto:unimakers.amiens@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:         https://www.youtube.com/@UniMakersAmiens
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       https://instagram.com/unimakers_amiens?igshid=NzZlODBkYWE4Ng==
     # flickr:          <string@string>
-    # 500px:           <username>
+    # 500px:           https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens
     # dribbble:        <username>
     # behance:         <username>
     # deviantart:      <username>
@@ -57,26 +53,89 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        https://www.linkedin.com/company/unimakers-amiens
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # download:        <url>
-    # keybase          <username>
+    # download:        https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip
+    helloasso:       https://www.helloasso.com/associations/association-de-robotique-de-l-esiee-amiens
 
 # Another author (optional)
+
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Fache Quentin
+  email:             fachequentin@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Salut moi c'est Quentin, je suis étudiant alternant au sein de UniLaSalle amiens et je suis aussi le chargé des Sponsors et des Finances de l'association sur les années 2023-2024.
+    Ce que j'adore c'est les projets funs et tranquille sans prise de tête, c'est pour ça que j'ai réalisé la borne d'arcade !! J'espere que le site te plait j'en suis aussi le créateur ^^ Enjoy !!
+  
+  picture:           /assets/img/membre/Quentin_Fache.png
+  social:
+    linkedin:         https://www.linkedin.com/in/fache-quentin/
+    github:           https://github.com/N3O3000
+    website:          https://sites.google.com/view/poisson-reveur/accueil
+    email:            mailto:fachequentin@gmail.com
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
 
-    Open `_data/authors.yml` to edit this text.
+author3:
+  name:              Pruvost Alexandre
+  #email:             
+  about:             |
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  picture:           /assets/img/membre/Alexandre.png
+  #linkedin:         
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:     
+    background:      '#2D2D36'
+    overlay:         false
+
+author4:
+  name:              Looij Dylan
+  email:             
+  about:             |
+    Directeur Technique d'Unimakers Amiens  
+  picture:           /assets/img/membre/Dylan_Looij.jpg
+  #linkedin:         
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author5:
+  name:              Lacombe Rémi
+  email:             remi.lacombe76@gmail.com
+  about:             |
+     Animé depuis l’enfance par le besoin de créer de mes mains, c’est d’abord dans le travail du bois que j’ai découvert la liberté d’inventer. 
+     C’est lors de l’achat d’une imprimante 3D qu’un nouveau monde de possibilités créatives s’est ouvert à moi. J’ai par la suite su trouver via le courant des Makers, le moyen d’apprendre en faisant, tout en apprenant à faire. 
+     C’est alors vers la robotique que je me suis tourné, comme une opportunité de mettre à profit ma curiosité dans de nombreux domaines : électronique, programmation, mécanique, fabrication numérique…
+  picture:           /assets/img/membre/Remi_Lacombe.png
+  social:
+    website:          https://lacombe-r.github.io/about/
+    linkedin:         https://www.linkedin.com/in/r%c3%a9mi-lacombe-6640a6207/
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
+
+author6:
+  name:              Bianchi Pierre-Alex
+  email:             pierre.bianchi81@gmail.com
+  about:             |
+     Etudiant en 3ème année à Unilasalle Amiens, j'ai toujours été animé par la curiosité et l'envie d'apprendre. Je me suis ainsi naturellement penché vers la formation d'ingénieur.
+     C'est en rentrant en première année que je découvre le monde des Maker et des FabLab. Je me suis alors pris de passion pour la robotique, et la programmation en général.
+  picture:           /assets/img/membre/PA.jpg
+  social:
+    linkedin:         www.linkedin.com/in/pierre-alex-bianchi-0aa620259
+  #github:           
+  accent_color:      '#E04750'
+  accent_image:
+    background:      '#2D2D36'
+    overlay:         false
