@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://unimakers.fr
+# url:                   
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,19 +22,19 @@ baseurl:               ''
 lang:                  fr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Unimakers
+title:                 Fache Quentin
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  description dans la partie config.yml
+#description:           >
+#  description dans la partie config.yml
 
 # A shorter description for the sidebar.
 tagline:               >
-  Association de Robotique, Modélisme dans l'enceinte d'Unilasalle Amiens 
+  Ingénieur en reseaux informatiques et objets connectés 
 
 # A list of keywords for your blog
-keywords:              [Unimakers Amiens, robotique, DIY, modelisme, Unilasalle Amiens, CDR, Coupe de france de robotique]
+keywords:              [Unimakers Amiens, robotique, DIY, modelisme, Unilasalle Amiens, CDR, Coupe de france de robotique, Ingenieur]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -48,15 +48,15 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © Unimakers Amiens 2023. All rights reserved.
+copyright:             © Fache Quentin 2024. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
-# legal:
-#   - title:             Impress
-#     href:              /impress/
-#   - title:             Cookies Policy
-#     href:              /cookies-policy/
+legal:
+   - title:             Impress
+     href:              /impress/
+   - title:             Cookies Policy
+     href:              /cookies-policy/
 
 # Format of the permalinks
 permalink:             pretty
@@ -75,7 +75,7 @@ kramdown:
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          '#E04750'
+accent_color:          '#ffbd59'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: NOTICE
-accent_color: '#E04750'
+accent_color: '#ffbd59'
 accent_image:
-  background: '#2D2D36'
+  background: '#333'
   overlay:    false
 ---
 

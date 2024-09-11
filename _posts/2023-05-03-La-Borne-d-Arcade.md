@@ -3,19 +3,14 @@ layout: post
 title: La borne d'arcade
 description: >
   Réalisation d'une borne d'arcade sous l'OS Recalbox et fabriquer avec tout les outils du Makerspace dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
+image: /assets/img/blog/borne_d_arcade/borne-d-arcade.png
 tags: [Amiens]
-author: author2
-accent_color: '#E04750'
-accent_image:
-  background: '#2D2D36'
-  overlay:    false
-accent_image: /assets/img/project/Borne_d_arcade/salle-arcade-mikado.jpg
+author: author1
+accent_image: /assets/img/blog/borne_d_arcade/salle-arcade-mikado.jpg
 
 ---
 
 ## Réalisation d'une borne d'arcade
-
-![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
 
 > **Petite Histoire:**
 Les bornes d'arcade ont fait leur apparition dans les années 1930 avec l'introduction de jeux électromécaniques tels que les flippers. Ces machines, souvent de la taille d'un meuble et coûteuses, se sont rapidement popularisées. Peu de particuliers pouvaient se les permettre, ce qui a donné naissance à des salles publiques où des dizaines de ces machines étaient disponibles. Les premières bornes d'arcade intégrant des jeux vidéo ont vu le jour dans les années 1960 aux États-Unis, avant de gagner en popularité en Europe dans les années 1970 et 1980.
@@ -33,16 +28,16 @@ Les étapes que j'ai réalisé pour construire la borne d'arcade sont les suivan
 
 - Utilisez un logiciel de CAO, comme **[FreeCAD](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj5odvWjeCBAxWMV6QEHQQbCjQQFnoECBUQAQ&url=https%3A%2F%2Fwww.freecad.org%2Findex.php%3Flang%3Dfr&usg=AOvVaw17WDYd8I-_k42_OpiwajPK&opi=89978449)**, **[Fusion360](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQ4obojeCBAxUaVqQEHQGGBs4QFnoECBcQAQ&url=https%3A%2F%2Fwww.autodesk.fr%2Fproducts%2Ffusion-360%2Foverview&usg=AOvVaw0o3YgBfEPtwNNOSe69fjn3&opi=89978449)** ou **[SolidWorks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwio86HxjeCBAxXTRUEAHeEFAGQQFnoECAgQAQ&url=https%3A%2F%2Fwww.solidworks.com%2Ffr&usg=AOvVaw2PKKzNpHSQdI9BvKXJUuLo&opi=89978449)**, pour réaliser chaque pièce de la borne. Les fichiers peuvent être trouvés sur le lien du drive en bas de page. Pour ma part j'ai utilisé le logiciel de CAO **FreeCAD**.
 
-![utilisation du logiciel de CAO](/assets/img/project/Borne_d_arcade/CAO.png)
+![utilisation du logiciel de CAO](/assets/img/blog/borne_d_arcade/CAO.png)
 
 - Découpez les pièces à l'aide d'une **[découpeuse laser**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrHq1XwIzPL4&psig=AOvVaw0GFboQfyNL2UuevHQNS55l&ust=1696636394385000&source=images&cd=vfe&opi=89978449&ved=0CBQQ3YkBahcKEwjAzuebjeCBAxUAAAAAHQAAAAAQCQ)**, ou d'autres solutions telles qu'une scie sauteuse ou une scie. Dans mon cas j'avais à disposition de la découpeuse laser et du logieciel de FAO "Laserbox". Pour etre sur de nos calcules il faut en premier lieu un prototypage en carton.
 
-![Prototypage de la Borne en carton](/assets/img/project/Borne_d_arcade/protocarton_borne.jpg)
+![Prototypage de la Borne en carton](/assets/img/blog/borne_d_arcade/protocarton_borne.jpg)
 
 - La disposition des **[boutons](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** et du **[joystick](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FButtons-EG-STARTS-Joystick-Raspberry%2Fdp%2FB01M2X88QP&psig=AOvVaw24R-zllYnmTKl9GBSw74hN&ust=1696636929855000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRiZuP4IEDFQAAAAAdAAAAABAG)** est cruciale pour une utilisation confortable de la borne d'arcade. Il existe des **[schémas](https://pxlbbq.com/wp-content/uploads/2017/05/sega1_l.png)** pour indiquer la position idéale des boutons. Toujours avec un prototypage en carton ^^
 
-![Réalisation du plateau de commande en 3D](/assets/img/project/Borne_d_arcade/plaque_joystik.png)
-![protype carton du plateau de commande](/assets/img/project/Borne_d_arcade/proto.jpg)
+![Réalisation du plateau de commande en 3D](/assets/img/blog/borne_d_arcade/plaque_joystik.png)
+![protype carton du plateau de commande](/assets/img/blog/borne_d_arcade/proto.jpg)
 
 - En ce qui concerne la partie électronique, utilisez un écran d'occasion et une **[Raspberry Pi 2+](https://www.raspberrypi.com/documentation/)** ou version ultérieur qui seras connectée aux boutons ou si vous le souhaitez installer le sur votre ordinateur. *Veuillez noter que la taille de votre écran déterminera les dimensions de votre borne*.
 
@@ -50,20 +45,20 @@ Les étapes que j'ai réalisé pour construire la borne d'arcade sont les suivan
  
 - Après avoir construit la borne, vous avez la possibilité de la personnaliser selon vos préférences, que ce soit au niveau de l'apparence visuelle ou en modifiant l'interface de l'OS Recalbox. Vous pouvez personnaliser Recalbox en utilisant des méthodes telles que le  **[scraping](https://www.youtube.com/watch?v=a8-XDy_tYAw)** pour les jeux ou en changeant le **thème Recalbox**. En ce qui concerne les jeux, je vous conseille de consulter des vidéos explicatives, car il existe plusieurs façons d'ajouter des jeux à la console.
 
-![Personnalisation de la borne avec mario pixel graver au laser](/assets/img/project/Borne_d_arcade/personalisation.jpg)
-![Borne en train de fonctionner](/assets/img/project/Borne_d_arcade/ingame.png)
-![Borne en marche avec son créateur](/assets/img/project/Borne_d_arcade/borne-d-arcade.png)
+![Personnalisation de la borne avec mario pixel graver au laser](/assets/img/blog/borne_d_arcade/personalisation.jpg)
+![Borne en train de fonctionner](/assets/img/blog/borne_d_arcade/ingame.png)
 
 - Et enfin, profitez-en et partagez-le avec d'autres !
 
-![Borne en marche au salon du Safra numérique](/assets/img/project/Borne_d_arcade/Safra_numerique.png)
+![Borne en marche au salon du Safra numérique](/assets/img/blog/borne_d_arcade/Safra_numerique.png)
 
 
 ## Téléchargement des ressources 
 > Vous pouvez également la réaliser sans avoir à faire quoi que ce soit, en utilisant tous les dossiers qui sont disponibles ici : 
 
-- [La Parties FAO](https://drive.google.com/drive/folders/1l8KBKS_DKK8M51PJvBYQ1OmmrbqSskoz?usp=drive_link) *sous freecad je precise*
+- [La Parties FAO](https://drive.google.com/drive/folders/1l8KBKS_DKK8M51PJvBYQ1OmmrbqSskoz?usp=drive_link) *(sous freecad je precise)*
 - [La Parties Scraping](https://drive.google.com/drive/folders/1VqpI_UWtA0QQUX6-7rAunpzHCxvgmyDm?usp=drive_link)
 - [La Parties OS recalbox](https://drive.google.com/drive/folders/1BNq80I9mQ7tGICTAPnmZjTvw8rT7d2Sf?usp=drive_link)
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers-1/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+<iframe src="//www.ultimedia.com/deliver/generic/iframe/mdtk/01338879/src/q8s8mv5/zone/18/showtitle/1/?autoplay=0" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" hspace="0" vspace="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" width="640" height="360" allow="fullscreen"></iframe>
+
