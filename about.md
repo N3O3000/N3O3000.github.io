@@ -1,64 +1,18 @@
 ---
 layout: about
 title: À propos
-accent_color: '#E04750'
+accent_color: '#FFBD59'
 accent_image:
-  background: '#2D2D36'
+  background: '#0F0154'
   overlay:    false
-accent_image:          /assets/img/remi-houda.jpg
-menu: true
+accent_image:          /assets/img/presentation.webp
+menu: true              
 order: 4
 ---
 
-# L'équipe 2023-2024
-
-<div class="container">
-  <div class="image-container">
-    <img src="/assets/img/membre/Dylan_Looij.jpg" alt="Dylan Looij">
-    <p>Dylan Looij</p>
-    <p>Directeur Technique</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Quentin_Fache.png" alt="Quentin Fache">
-    <p>Quentin Fache</p>
-    <p>Chargé des Sponsors et des finances</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/PA.jpg" alt="PA">
-    <p>Pierre-Alex Bianchi</p>
-    <p>Chargé de la Communication</p>
-  </div>
-</div> 
-
-# L'équipe 2022-2023
-
-<div class="container">
-  <div class="image-container">
-    <img src="/assets/img/membre/Remi_Lacombe.png" alt="Rémi Lacombe">
-    <p>Rémi Lacombe</p>
-    <p>Directeur Pôle Robotique</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Bixente_Lecadieu.png" alt="Bixente Lecadieu">
-    <p>Bixente Lecadieu</p>
-    <p>Directeur pôle Makerspace</p>
-  </div>
-  
-  <div class="image-container">
-    <img src="/assets/img/membre/Teva_Houziaux.png" alt="Teva Houziaux">
-    <p>Teva Houziaux</p>
-    <p>Directeur pôle Modélisme</p>
-  </div>
-</div> 
-
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/unimakers-association-technique-d-unilasalle-amiens/adhesions/adhesion-unimakers/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
-
-
-[BrandingKit](assets/Files/Branding-kit.zip)
+<iframe src="/assets/img/docs/Fache_Quentin.pdf" width="100%" height="600px">
+    Ce navigateur ne supporte pas les iframes.
+</iframe>
 
 
 [blog]: https://qwtel.com/hydejack/blog/

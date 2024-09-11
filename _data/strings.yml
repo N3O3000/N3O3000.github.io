@@ -10,47 +10,47 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
+home:                  Accueil
 pages:                 Pages
-posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
+posts:                 Postes
+about:                 A propos
+related_posts:         Postes Précédents
+other_projects:        Autres Projects
+comments:              Commentaires
+jump_to:               Aller vers
 navigation:            Navigation
 social:                Social
-links:                 Links
+links:                 Liens
 pagination:            Pagination
-newer:                 Newer
-older:                 Older
-back:                  Back
+newer:                 Nouveau
+older:                 Ancien
+back:                  Retour
 permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 
 loading:               Loading…
-redirecting:           Redirecting…
+redirecting:           Redirection…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continuer à lire <!--post_title-->
 
 cookies_banner:
   text:                >
-    This site uses cookies. [Cookies Policy](/hydejack/cookies-policy/).
+    Ce site utilise des cookies. [Cookies Policy](/hydejack/cookies-policy/).
   okay:                Okay
 
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Désolé, nous avons égaré cette URL ou elle pointe vers quelque chose qui n'existe pas.
+    <!--home_link--> pour essayer de le retrouver.
+  home_link:           Retour à l'accueil
 
 error:
-  title:               Error
+  title:               Erreur
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Désolé, une erreur s'est produite lors du chargement <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
