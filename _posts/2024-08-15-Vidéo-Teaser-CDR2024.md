@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Teasing CDR 2025
+comments: true
 description: >
   Réalisation d'une vidéo de teasing pour l'association Unimakers Amiens pour la Coupe de France de Robotique 2025. Le but est d'attirer des participants pour la fabrication de A à Z d'un robot autonome pendant une période de 9 mois.
 tags: [Amiens]

@@ -14,7 +14,6 @@ order: 4
     Ce navigateur ne supporte pas les iframes.
 </iframe>
 
-
 [blog]: https://qwtel.com/hydejack/blog/
 [portfolio]: https://qwtel.com/hydejack/variations/
 [resume]: https://qwtel.com/hydejack/resume/

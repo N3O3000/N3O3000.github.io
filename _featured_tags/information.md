@@ -5,7 +5,7 @@ slug: Informations
 menu: true
 order: 5
 description: >
-  Voici quelques entreprises et école dont j'ai/je fait partie
+  Voici quelques entreprises et écoles dont j'ai/je fait partie
 accent_color: '#FFBD59'
 accent_image:         /assets/img/presentation.webp
 

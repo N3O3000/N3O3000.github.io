@@ -3,10 +3,12 @@ layout: post
 title: La borne d'arcade
 description: >
   Réalisation d'une borne d'arcade sous l'OS Recalbox et fabriquer avec tout les outils du Makerspace dans les locaux d'Unilasalle Amiens encadré par Adrien Bracq (Enseignant Chercheur).
+comments: true
 image: /assets/img/blog/borne_d_arcade/borne-d-arcade.png
 tags: [Amiens]
 author: author1
 accent_image: /assets/img/blog/borne_d_arcade/salle-arcade-mikado.jpg
+comments: true
 
 ---
 
