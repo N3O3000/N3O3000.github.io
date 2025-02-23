@@ -39,4 +39,3 @@ Pour en savoir plus sur la gestion des cookies dans votre navigateur :
 ### Contact
 
 Si vous avez des questions concernant notre politique de gestion des cookies, vous pouvez nous contacter à l'adresse suivante : [adresse email].
-
